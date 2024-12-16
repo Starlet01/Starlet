@@ -1,0 +1,8 @@
+<html>
+<head>
+<header>
+    <div class="logo-container">
+      <img src="starlette.jpg" alt="Logo"> 
+    </div>
+  </header>
+</html>
