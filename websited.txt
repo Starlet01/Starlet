@@ -1,0 +1,26 @@
+<html>
+<head>
+       
+ <title>starlet media</title>
+
+
+<style>
+h1 {
+            font-size: 4em;             
+            color: #green;               
+            font-family: 'Arial', sans-serif; 
+            font-weight: bold;            
+            text-align: center;           
+            text-transform: uppercase;    
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+            padding: 20px;               
+            background-color: #322;       
+            color: white;                 
+            border-radius: 10px;         
+        }
+    
+
+   </style>
+ </head>
+</body>
+</html>
